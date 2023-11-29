@@ -1,0 +1,18 @@
+"""for count in range(5):
+    time.sleep(5)
+pyautogui.moveTo(100, 100, duration = 15)"""
+
+"""
+screenWidth, screenHeight = pyautogui.size()
+print(screenWidth, screenHeight)
+
+
+
+Point(x=718, y=801)
+PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> python .\autoclicker.py
+Point(x=1465, y=201)
+PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> 
+PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> python .\autoclicker.py
+Point(x=957, y=393)
+PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> python .\autoclicker.py
+Point(x=966, y=603)
