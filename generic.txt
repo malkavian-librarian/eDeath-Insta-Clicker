@@ -16,3 +16,6 @@ PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> python .\autoclicker.py
 Point(x=957, y=393)
 PS C:\Users\FlyerOne\Desktop\eDeath Insta Clicker> python .\autoclicker.py
 Point(x=966, y=603)
+
+comment
+print(pyautogui.position())
